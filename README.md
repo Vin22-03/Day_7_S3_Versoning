@@ -1,4 +1,4 @@
-# AWS S3 Accidental Delete & Recovery (Versioning Demo)
+# AWS S3 Accidental Delete & Recovery (Versioning)
 
 ## 📌 Objective
 Simulate a real-world AWS S3 incident where a file is accidentally deleted and recovered using S3 **Versioning** and **Delete Markers**.
@@ -32,11 +32,6 @@ Simulate a real-world AWS S3 incident where a file is accidentally deleted and r
 
 ---
 
-## 📷 Screenshots
-Screenshots are in the `/screenshots` folder showing each step.
-
----
-
 ## ⚡ How to Try This Yourself
 1. Enable S3 Versioning.
 2. Upload a file, then upload a modified version of the same file.
@@ -50,5 +45,3 @@ If a critical file is mistakenly deleted in production, S3 Versioning ensures qu
 
 ---
 
-## 📌 Author
-Vin — Aspiring Cloud & DevOps Engineer 🚀
